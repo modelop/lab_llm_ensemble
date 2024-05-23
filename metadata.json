@@ -1,0 +1,7 @@
+{
+    "name": "Llm Ensemble",
+    "description": "Ensemble model for LLM",
+    "modelCategory": "BUSINESS_MODEL",
+    "modelMethodology": "LLM",
+  	"type": "PYTHON"
+}
