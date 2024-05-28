@@ -3,5 +3,5 @@
     "description": "Ensemble model for LLM",
     "modelCategory": "BUSINESS_MODEL",
     "modelMethodology": "LLM",
-  	"type": "PYTHON"
+  	"type": "ENSEMBLE"
 }
