@@ -1,9 +1,9 @@
 modelsToAssociate:
   - Name: "Model Governance Document Chatbot"
-    Model_ID: "7b2f5038-ee9c-45e8-84e5-1ab8bcb35340"
+    Model_ID: "776b36e6-0f91-4435-a2da-9d7cd17ce98d"
     Association_Role: "MODEL_IMPLEMENTATION"
     Association_Type: "STORED_MODEL_ASSOCIATION"
   - Name: "Profanity Guardrails"
-    Model_ID: "070b6696-698a-4d2a-b5c0-812b5f8ffdcf"
+    Model_ID: "a497035f-8670-426a-8c38-502baed643e0"
     Association_Role: "MODEL_IMPLEMENTATION"
     Association_Type: "STORED_MODEL_ASSOCIATION"
