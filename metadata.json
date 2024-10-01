@@ -4,5 +4,5 @@
     "type": "ENSEMBLE",
     "modelUseCategory" : "Compliance",
     "modelOrganization" : "Compliance",
-    "custom":{"AI_COI" : true}
+    "custom":{"AI_COE" : true}
 }
