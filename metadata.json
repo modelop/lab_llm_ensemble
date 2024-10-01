@@ -1,5 +1,8 @@
 {
     "modelCategory": "BUSINESS_MODEL",
     "modelMethodology": "LLM",
-    "type": "ENSEMBLE"
+    "type": "ENSEMBLE",
+    "modelUseCategory" : "Compliance",
+    "modelOrganization" : "Compliance",
+    "custom":{"AI_COI" : true}
 }
