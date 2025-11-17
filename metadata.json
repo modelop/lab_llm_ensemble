@@ -1,4 +1,5 @@
 {
     "modelCategory": "BUSINESS_MODEL",
-    "type": "ENSEMBLE"
+    "type": "ENSEMBLE",
+    "modelMethodology": "LLM"
 }
