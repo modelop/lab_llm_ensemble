@@ -4,7 +4,7 @@ modelsToAssociate:
     Association_Role: "MODEL_IMPLEMENTATION"
     Association_Type: "STORED_MODEL_ASSOCIATION"
   - Name: "Llama2 7B Foundation Model"
-    Model_ID: "5f814d16-86e0-43d1-89c5-eb5f9fb4cc98"
+    Model_ID: "5a80536a-1325-4089-92c8-d4e2c0c6b0fd"
     Association_Role: "MODEL_IMPLEMENTATION"
     Association_Type: "STORED_MODEL_ASSOCIATION"
   - Name: "Profanity Guardrails"
